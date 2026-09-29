@@ -1,6 +1,5 @@
 # End-to-end Student Performance Prediction
 
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/grashanks/mlproject.git)
 
 This repository contains an end-to-end machine learning project designed to predict student performance in math exams based on various demographic and academic factors. The project covers the entire machine learning lifecycle, from data ingestion and exploratory data analysis to model training and deployment as a web application.
 
